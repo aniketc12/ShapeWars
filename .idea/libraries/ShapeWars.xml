@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShapeWars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ShapeWars.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
